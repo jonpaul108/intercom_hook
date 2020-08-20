@@ -1,0 +1,26 @@
+{
+  "name": "intercom_hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonpaul108/intercom_hook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonpaul108/intercom_hook/issues"
+  },
+  "homepage": "https://github.com/jonpaul108/intercom_hook#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "intercom-client": "^2.11.0",
+    "path": "^0.12.7"
+  }
+}
